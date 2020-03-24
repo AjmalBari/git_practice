@@ -1,0 +1,1 @@
+After learning how to use git, I am yet to encounter further exercises in the codecademy Computer Science course which make use of it. I will therefore have to rely on myself to practice using git for the time being.
