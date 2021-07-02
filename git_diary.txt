@@ -1,3 +1,0 @@
-After learning how to use git, I am yet to encounter further exercises in the codecademy Computer Science course which make use of it. I will therefore have to rely on myself to practice using git for the time being.
-
-Today I learned some more commands to navigate the cli. I learnt how to copy, move, and delete individual files and directories. I also learned about wildcards (*) which can be used to refer to more than one file. I also learned that the command for moving files can be used to rename files too.
